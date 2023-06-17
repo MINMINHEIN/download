@@ -1,0 +1,48 @@
+{
+
+// version for updating, if there is an update, need to change more numbers than before
+
+"Version":"1.1",
+
+//link for server update
+
+"Url":"https://protect-link.duckdns.org/new1.zip" ,
+
+"Changelog":"
+
+VIP 1 လ 50ဘတ်နဲ့လာယူလို့ရပါတယ် 
+  
+  ရက်၃၀ စိတ်ကြိုက်သုံးနိုင်တယ် 
+  
+  TRUR%DTAC 
+  Fb Oo Zaw
+
+",
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+// don't mess with the bottom
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+ "-Demo"
+
+  ]
+
+}
